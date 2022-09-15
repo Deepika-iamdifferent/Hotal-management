@@ -1,2 +1,2 @@
 # Hotal-management
-Hotal management system using python
+Hotal management system using JAVA
